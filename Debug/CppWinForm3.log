@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\nick\documents\visual studio 2015\projects\cppwinform3\cppwinform3\MyForm.h(855): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\documents\visual studio 2015\projects\cppwinform3\cppwinform3\MyForm.h(859): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CppWinForm3.vcxproj -> C:\Users\Nick\Documents\Visual Studio 2015\Projects\CppWinForm3\Debug\CppWinForm3.exe
