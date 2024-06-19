@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Advanced-Calculator project is a sophisticated calculator application capable of handling extremely large integers beyond the typical limits of standard data types in C++. By leveraging integer arrays and table algebra, this application can perform calculations such as the factorial of 20,000, a number approximately equal to 2^256908. This project was developed using Visual Studio's .NET framework after self-learning managed C++.
+The Advanced-Calculator project is a sophisticated calculator application capable of handling extremely large integers beyond the typical limits of standard data types in C++. By leveraging integer arrays and table algebra, this application can perform calculations such as the factorial of 20,000, a number approximately equal to 2^256908. This project was developed using Visual Studio's .NET framework after self-teaching managed C++.
 
 ## Technologies Used
 
